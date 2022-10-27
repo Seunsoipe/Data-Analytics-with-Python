@@ -1,0 +1,24 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1666859750714.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2313143723",
+    "id" : "C7A97B7B",
+    "lastKnownWriteTime" : 1666861035,
+    "last_content_update" : 1666861035785,
+    "path" : "~/R codes/Univariate/Univariate Checkpoint/Univariate Checkoint Analysis with R.Rmd",
+    "project_path" : "Univariate Checkoint Analysis with R.Rmd",
+    "properties" : {
+        "chunk_output_type" : "inline",
+        "cursorPosition" : "38,17",
+        "scrollLine" : "34",
+        "tempName" : "Untitled3"
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

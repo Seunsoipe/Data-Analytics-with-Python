@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1666803576200.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "1EC7D99D",
+    "lastKnownWriteTime" : 7954887957643881833,
+    "last_content_update" : 1666803576200,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "4A0EACF4",
+        "caption" : "HR_comma_sep",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=HR_comma_sep&cache_key=4A0EACF4",
+        "displayedObservations" : "14999",
+        "environment" : "",
+        "object" : "HR_comma_sep",
+        "preview" : "0",
+        "totalObservations" : "14999",
+        "variables" : "10"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
